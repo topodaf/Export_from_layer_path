@@ -3,6 +3,7 @@
 Configuration:
 A geographic layer containing in a field the complete path to a file.
 Modify the script with the field name containing the path.
+Load into a toolbox (arcgis or arcmap).
 
 Usage:
  The script use as an input the layer with the path to export to a directory the selected files in the path.
